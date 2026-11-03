@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:translateY="6">
+    <!-- антенна -->
+    <path android:fillColor="#FFFFFF" android:pathData="M52,28h4v8h-4z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M54,24m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <!-- уши -->
+    <path android:fillColor="#FFFFFF" android:pathData="M27,48h4v12h-4z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M77,48h4v12h-4z" />
+    <!-- голова -->
+    <path android:fillColor="#FFFFFF" android:pathData="M40,36h28a8,8 0 0 1 8,8v20a8,8 0 0 1 -8,8h-28a8,8 0 0 1 -8,-8v-20a8,8 0 0 1 8,-8z" />
+    <!-- глаза -->
+    <path android:fillColor="#1E88C7" android:pathData="M46,53m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <path android:fillColor="#1E88C7" android:pathData="M62,53m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <!-- рот -->
+    <path android:fillColor="#1E88C7" android:pathData="M45,63h18v3h-18z" />
+    </group>
+</vector>
